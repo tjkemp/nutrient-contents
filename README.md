@@ -22,16 +22,16 @@ See [nutrient-contents notebook on Analysis on Average Nutrient Contents of Finn
 
 ## Examples visualizations
 
-![Histogram](https://github.com/tjkemp/nutrient-contents/blob/master/images/histogram.png)
+![Histogram](https://github.com/tjkemp/nutrient-contents/blob/master/images/histograms.png)
 
-![Scatter plot](https://github.com/tjkemp/nutrient-contents/blob/master/images/scatterplot.png)
+![Scatter plot](https://github.com/tjkemp/nutrient-contents/blob/master/images/scatterplots.png)
 
 ![Principal Component Analysis](https://github.com/tjkemp/nutrient-contents/blob/master/images/pca.png)
 
 ## Licences
 
-- [MIT License](LICENSE)
-- Data source: National Institute for Health and Welfare, Fineli (22.11.2015). Licence: [Creative Commons Attribution 4.0 (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en). [Link to data](https://fineli.fi/fineli/en/ohje/19).
+- [MIT License](LICENSE) for the code.
+- Data by National Institute for Health and Welfare of Finland, Fineli (22.11.2015). Licence: [Creative Commons Attribution 4.0 (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en). [Link to data](https://fineli.fi/fineli/en/ohje/19).
 
 ## Author
 
