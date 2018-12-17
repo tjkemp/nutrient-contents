@@ -28,6 +28,8 @@ See [nutrient-contents notebook on Analysis on Average Nutrient Contents of Finn
 
 ![Principal Component Analysis](https://github.com/tjkemp/nutrient-contents/blob/master/images/pca.png)
 
+![Parallel Coordinates](https://github.com/tjkemp/nutrient-contents/blob/master/images/parallel_coordinates.png)
+
 ## Licences
 
 - [MIT License](LICENSE) for the code.
